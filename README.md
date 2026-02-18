@@ -78,7 +78,3 @@ When I’m not coding, I spend time at the gym, play video games, and focus on p
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=karamkallab&icon=0&color=1" />
-</p>
